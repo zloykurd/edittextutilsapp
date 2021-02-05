@@ -3,8 +3,8 @@ package ru.zkdev.edittextapp
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
-import ru.zkdev.edittextapp.watchers.MobilePhoneTextWatcher
-import ru.zkdev.edittextapp.watchers.PriceTextWatcher
+import ru.zkdev.core.watchers.MobilePhoneTextWatcher
+import ru.zkdev.core.watchers.PriceTextWatcher
 import java.util.*
 
 class MainActivity : AppCompatActivity() {

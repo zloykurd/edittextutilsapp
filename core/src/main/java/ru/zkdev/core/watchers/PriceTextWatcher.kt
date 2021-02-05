@@ -1,4 +1,4 @@
-package ru.zkdev.edittextapp.watchers
+package ru.zkdev.core.watchers
 
 import android.text.Editable
 import android.text.TextWatcher
